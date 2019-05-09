@@ -1,5 +1,6 @@
-# BookWorm
+﻿# BookWorm
 有那么只勤勉的小虫，如痴如醉地沉迷于书卷，孜孜不倦地咀嚼着……
+![](Other/bookworm.jpg)
 
 > 小虫不才，科班出身，闲静少言，喜藏书卷。好读书，不求甚解；每有会意，便欣然忘食。今光布所藏，涉猎者遍及软硬件，意卿览之，斟其胜劣，而后市之，尊其原著。
 
@@ -156,6 +157,7 @@ D:\PHP\GITHUB\BOOKWORM#│  README.md
 │      《Thinking In Java（中文版第四版）》.pdf
 │      《阿里巴巴Java开发手册》书籍版PDF.pdf
 │      深入理解Java虚拟机--JVM高级特性与最佳实践2.pdf
+│      JAVA核心知识点整理.pdf
 │      
 ├─Linux
 │      %5B从实践中学嵌入式Linux.C编程%5D.曾宏安.pdf
@@ -397,6 +399,7 @@ D:\PHP\GITHUB\BOOKWORM#│  README.md
 │      编码：隐匿在计算机软硬件背后的语言（美）佩措尔德.pdf.sgdownload
 │      编程珠玑（第2版）.pdf
 │      谷歌黑板报--数学之美【精心制作完整版】.pdf
+│      代码大全
 │      
 ├─算法_设计模式
 │      Head First 设计模式（中文版）.pdf
